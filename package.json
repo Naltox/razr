@@ -1,0 +1,25 @@
+{
+  "name": "razr",
+  "version": "1.0.0",
+  "description": "DI module for js",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "should": "^10.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "DI"
+  ],
+  "author": "Narek Abovyan <xeroxaltox@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Computer": {
+    "class": "./testClasses/Computer.js",
+    "args": ["RAM", "HDD", "CPU", "GPU"]
+  },
+  "RAM": {
+    "class": "./testClasses/RAM.js",
+    "args": []
+  },
+  "HDD": {
+    "class": "./testClasses/HDD.js",
+    "args": []
+  },
+  "CPU": {
+    "class": "./testClasses/CPU.js",
+    "args": ["RAM"]
+  },
+  "GPU": {
+    "class": "./testClasses/GPU.js",
+    "args": []
+  }
+}
