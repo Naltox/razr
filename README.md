@@ -11,7 +11,7 @@ npm install --save razr
 ```
 
 This assumes you are using [npm](https://www.npmjs.com/) as your package manager.
-If you don’t, you can access these files on [npmcdn](https://npmcdn.com/razr/), download them, or point your package manager to them.
+If you don’t, you can access these files on [unpkg](https://unpkg.com/razr/), download them, or point your package manager to them.
 
 
 ## Quick start
